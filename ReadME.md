@@ -1,6 +1,3 @@
-Read Me
-This file provides the summary of the work done and how to run the tests.
-
 Pre-Requisites
 Software used to create the test suite
 Java 1.8.0
