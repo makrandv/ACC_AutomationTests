@@ -17,23 +17,20 @@ Maven Build
 Set M2_HOME environment variable to the Maven installation directory e.g. M2_HOME = C:\apache-maven-3.8.5
 Add to PATH system environment variable, ensure it includes M2_HOME\bin (to allow maven to run from the command prompt)
 
-Test Development**
+Test Development
 - Followed BDD approach for creating UI and API tests
 - Webelements identification was parameterized so that they can be used across multiple search categories (e.g. Cars , Motorbikes) and also across multiple search options (e.g. Make, Style ,Location)
 - Created helper class for setting up the web driver for selenium
-- 
-Test Execution**
 
-From the Command Line
-
-- Run command - mvn test
-
-From IntelliJ
-
+Test Execution
+ From the Command Line
+ - Run command - mvn test
+ 
+ From IntelliJ
 - Right click on SeleniumTest >> testng.xml and select run option
 
-Test Report**
+Test Report
 - Latest test execution report (HTML format) can be found under SeleniumTest >> target >> cucumber-reports folder
 
 What was not done
-- Extend reporting
+Extend reporting
