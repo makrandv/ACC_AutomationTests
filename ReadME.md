@@ -27,10 +27,10 @@ Test Execution
  - Run command - mvn test
  
  From IntelliJ
-- Right click on SeleniumTest >> testng.xml and select run option
+- Right click on testng.xml and select run option
 
 Test Report
-- Latest test execution report (HTML format) can be found under SeleniumTest >> target >> cucumber-reports folder
+- Latest test execution report (HTML format) can be found under target >> cucumber-reports folder
 
 What was not done
 
