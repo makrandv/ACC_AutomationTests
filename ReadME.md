@@ -35,4 +35,4 @@ Test Report
 What was not done
 Extend reporting
 
-Attached is the test result should all executed tests and are passed.
+Attached is the test result "Cucumber-All Test Passed.html" showing all executed tests and being passed.
