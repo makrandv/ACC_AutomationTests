@@ -33,5 +33,6 @@ Test Report
 - Latest test execution report (HTML format) can be found under target >> cucumber-reports folder
 
 What was not done
-
 Extend reporting
+
+Attached is the test result should all executed tests and are passed.
